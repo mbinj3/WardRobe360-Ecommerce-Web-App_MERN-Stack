@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a788ed66.css",
+    "main.js": "/static/js/main.b66302fb.js",
+    "static/js/488.5153e344.chunk.js": "/static/js/488.5153e344.chunk.js",
+    "static/media/image3.jpg": "/static/media/image3.65bfe34c89f3840bc768.jpg",
+    "static/media/image1.jpg": "/static/media/image1.514b462b6e42d38a2980.jpg",
+    "static/media/image2.jpg": "/static/media/image2.77867aed2309f9310391.jpg",
+    "static/media/image11.jpg": "/static/media/image11.0b0bbf6308aea2b3c5a7.jpg",
+    "static/media/image10.jpeg": "/static/media/image10.1f885fad90c780592ca4.jpeg",
+    "static/media/image9.jpeg": "/static/media/image9.2b3d6decb9721580ea42.jpeg",
+    "static/media/image8.jpeg": "/static/media/image8.94beb3cae402197505b2.jpeg",
+    "static/media/image7.jpeg": "/static/media/image7.21ce0eb33a8b15b77d94.jpeg",
+    "static/media/WardRobe360.png": "/static/media/WardRobe360.c5f132f7b2e7d1cdd1b9.png",
+    "index.html": "/index.html",
+    "main.a788ed66.css.map": "/static/css/main.a788ed66.css.map",
+    "main.b66302fb.js.map": "/static/js/main.b66302fb.js.map",
+    "488.5153e344.chunk.js.map": "/static/js/488.5153e344.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a788ed66.css",
+    "static/js/main.b66302fb.js"
+  ]
+}
