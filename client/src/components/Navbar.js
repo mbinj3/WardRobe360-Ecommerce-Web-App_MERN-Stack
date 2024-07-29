@@ -1,6 +1,6 @@
 import React, { useState, useContext } from 'react';
 import { Link } from 'react-router-dom';
-import WardRobeLogo from '../images/WardRobe360.png'
+import WardRobeLogo from '../images/WardRobe360.webp';
 import { FaShoppingBag } from "react-icons/fa";
 import { IoMenu } from "react-icons/io5";
 import { IoClose } from "react-icons/io5";
@@ -26,7 +26,7 @@ function Navbar() {
       <div className='bg-[#b91c1c] h-[70px] w-full flex items-center justify-around gap-[400px] max-md:gap-60 max-lg:gap-10 max-sm:gap-5'>
         <div className='h-[268px] w-[268px]'>
         <Link to='/'>
-          <img src={WardRobeLogo} alt="" />
+          <img src={WardRobeLogo} alt="Logo"/>
         </Link>  
         </div>
         <div className='flex items-center justify-center gap-4 max-sm:hidden max-md:hidden'>

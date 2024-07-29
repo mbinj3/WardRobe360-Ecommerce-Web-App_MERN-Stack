@@ -1,5 +1,5 @@
 import React from 'react';
-import FormImage from '../images/image11.jpg'
+import FormImage from '../images/image11.webp';
 
 function SignUpForm() {
 

@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
 import { BsFillArrowRightCircleFill, BsFillArrowLeftCircleFill } from 'react-icons/bs';
-import SlidesImage1 from '../images/image1.jpg';
-import SlidesImage2 from '../images/image2.jpg';
-import SlidesImage3 from '../images/image3.jpg';
-import SlidesImage4 from '../images/image1.jpg';
-import SlidesImage5 from '../images/image2.jpg';
-import SlidesImage6 from '../images/image3.jpg';
+import SlidesImage1 from '../images/image1.webp';
+import SlidesImage2 from '../images/image2.webp';
+import SlidesImage3 from '../images/image3.webp';
+import SlidesImage4 from '../images/image1.webp';
+import SlidesImage5 from '../images/image2.webp';
+import SlidesImage6 from '../images/image3.webp';
 
 
 let slides = [

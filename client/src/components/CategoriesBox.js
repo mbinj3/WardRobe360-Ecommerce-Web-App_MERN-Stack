@@ -1,9 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import CatImage1 from '../images/image7.jpeg';
-import CatImage2 from '../images/image8.jpeg';
-import CatImage3 from '../images/image9.jpeg';
-import CatImage4 from '../images/image10.jpeg';
+import CatImage1 from '../images/image7.webp';
+import CatImage2 from '../images/image8.webp';
+import CatImage3 from '../images/image9.webp';
+import CatImage4 from '../images/image10.webp';
 
 
 let catImages = [
