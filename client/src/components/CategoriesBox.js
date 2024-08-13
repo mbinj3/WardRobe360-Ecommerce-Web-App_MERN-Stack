@@ -6,7 +6,7 @@ import CatImage3 from '../images/image9.webp';
 import CatImage4 from '../images/image10.webp';
 
 
-let catImages = [
+let categoriesImages = [
   { "id":1,
     "path": "/categories/men",
     "img": CatImage1,
@@ -37,7 +37,7 @@ function CategoriesBox() {
 
     <div className='w-full flex items-center justify-center gap-20 pt-20 max-xl:gap-10 max-lg:flex-wrap max-lg:gap-12'>
       
-      {catImages.map((category)=>
+      {categoriesImages.map((category)=>
       <Link key={category.id} to={category.path}> 
         <div className='w-52 h-52 rounded-2xl relative group overflow-hidden cursor-pointer shadow-2xl'>
          

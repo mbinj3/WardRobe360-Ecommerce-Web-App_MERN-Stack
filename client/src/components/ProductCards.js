@@ -13,8 +13,8 @@ function ProductCards() {
       <div className='w-full h-auto py-20 px-20'>
       <div className='w-full h-auto flex flex-wrap items-center justify-center gap-7 '>
       {products.map((product)=>(
-        <div className='w-64 h-[344px] bg-gray-500 flex flex-col items-center justify-start rounded-2xl m-auto' key={product.id}>
-            <img src={product.thumbnail} className='bg-black w-64 h-60 rounded-2xl cursor-pointer'alt='product-images'/>
+        <div className='w-64 h-[344px] bg-gray-500 flex flex-col items-center justify-start relative rounded-2xl m-auto' key={product.id}>
+            <img src={product.thumbnail} className='bg-black w-64 h-60 rounded-2xl cursor-pointer 'alt='product-images'/>
             <div className='flex  pt-4'>
             <p className='text-white text-lg font-medium w-52 pl-7'>{product.title.slice(0,15)}</p>
             <p className='text-white text-lg pr-7 font-medium'>${product.price}</p>

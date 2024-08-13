@@ -3,9 +3,9 @@ import { BsFillArrowRightCircleFill, BsFillArrowLeftCircleFill } from 'react-ico
 import SlidesImage1 from '../images/image1.webp';
 import SlidesImage2 from '../images/image2.webp';
 import SlidesImage3 from '../images/image3.webp';
-import SlidesImage4 from '../images/image1.webp';
-import SlidesImage5 from '../images/image2.webp';
-import SlidesImage6 from '../images/image3.webp';
+import SlidesImage4 from '../images/image4.webp';
+import SlidesImage5 from '../images/image5.webp';
+
 
 
 let slides = [
@@ -14,7 +14,6 @@ let slides = [
   SlidesImage3,
   SlidesImage4,
   SlidesImage5,
-  SlidesImage6,
 ];
 
 function ShowcaseSlider() {

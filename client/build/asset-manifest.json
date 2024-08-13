@@ -1,24 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.a788ed66.css",
-    "main.js": "/static/js/main.5cadee5f.js",
+    "main.css": "/static/css/main.3ab2ffe3.css",
+    "main.js": "/static/js/main.df07f74d.js",
     "static/js/488.5153e344.chunk.js": "/static/js/488.5153e344.chunk.js",
-    "static/media/image3.webp": "/static/media/image3.2730c0628a726992271e.webp",
-    "static/media/image2.webp": "/static/media/image2.9ae150dad33dea6168df.webp",
-    "static/media/image1.webp": "/static/media/image1.2e1e28a797c7f26e96c7.webp",
-    "static/media/image11.webp": "/static/media/image11.ca05d7cc0cb340ed2878.webp",
-    "static/media/image10.webp": "/static/media/image10.b4edd70f64e00bf00698.webp",
-    "static/media/image8.webp": "/static/media/image8.e190b25fab4a7e1fdbf1.webp",
-    "static/media/image9.webp": "/static/media/image9.db6f9c5cb5ca977f247c.webp",
-    "static/media/image7.webp": "/static/media/image7.78324de6d442c2d7d636.webp",
-    "static/media/WardRobe360.webp": "/static/media/WardRobe360.28c4ddcf3b39130bcd5e.webp",
+    "static/media/image1.webp": "/static/media/image1.ddedc6467e122807d45f.webp",
+    "static/media/image4.webp": "/static/media/image4.1bf80caa60bb8f7018b7.webp",
+    "static/media/image5.webp": "/static/media/image5.72b5b65f97eda9cbd029.webp",
+    "static/media/image11.webp": "/static/media/image11.7f4cb2c861446184be7c.webp",
+    "static/media/image10.webp": "/static/media/image10.8b53b78888a49ba4c6cf.webp",
+    "static/media/image3.webp": "/static/media/image3.a2c81cb3b5935ec5f172.webp",
+    "static/media/image8.webp": "/static/media/image8.44caf3daffcc255f58d0.webp",
+    "static/media/image9.webp": "/static/media/image9.90fb757d5b94427aad0b.webp",
+    "static/media/image7.webp": "/static/media/image7.b45c04615ef11cdd97df.webp",
+    "static/media/image2.webp": "/static/media/image2.69b72c5e75a1ba3f6258.webp",
+    "static/media/image12.webp": "/static/media/image12.c7316ef2fdfd42696caf.webp",
+    "static/media/WardRobe360.webp": "/static/media/WardRobe360.2846e4747032b09d9953.webp",
     "index.html": "/index.html",
-    "main.a788ed66.css.map": "/static/css/main.a788ed66.css.map",
-    "main.5cadee5f.js.map": "/static/js/main.5cadee5f.js.map",
+    "main.3ab2ffe3.css.map": "/static/css/main.3ab2ffe3.css.map",
+    "main.df07f74d.js.map": "/static/js/main.df07f74d.js.map",
     "488.5153e344.chunk.js.map": "/static/js/488.5153e344.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a788ed66.css",
-    "static/js/main.5cadee5f.js"
+    "static/css/main.3ab2ffe3.css",
+    "static/js/main.df07f74d.js"
   ]
 }
